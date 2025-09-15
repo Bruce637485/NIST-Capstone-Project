@@ -32,6 +32,8 @@ Using the NIST Cybersecurity Framework, I:
 
 ---
 
-Completed by: Bruce Weygandt  
-Date: 7/11/2025
+### 🧑‍💻 Author
+Bruce R Weygandt
+Cybersecurity Undergraduate @ Brigham Young University
+🔗 [LinkedIn](https://www.linkedin.com/in/bruce-weygandt)
 
